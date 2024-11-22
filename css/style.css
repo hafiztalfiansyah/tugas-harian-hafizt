@@ -42,3 +42,7 @@ body{
 .navbar .navbar-logo span {
     color: blue;
 }
+
+.navbar .navbar-nav a {
+    color: #fff;
+}
