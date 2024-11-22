@@ -49,3 +49,7 @@ body{
     font-size: 1.4rem;
     margin: 0 1rem;
 }
+
+.navbar .navbar-nav a:hover {
+    color: blue;
+}
