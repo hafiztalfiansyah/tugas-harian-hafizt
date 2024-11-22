@@ -59,4 +59,5 @@ body{
     display: block;
     padding-bottom: 0.5rem;
     border-bottom: 0.1rem solid blue;
+    transform: scaleX(0);
 }
