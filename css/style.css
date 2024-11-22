@@ -60,4 +60,10 @@ body{
     padding-bottom: 0.5rem;
     border-bottom: 0.1rem solid blue;
     transform: scaleX(0);
+    transition: 0.2s linear;
+}
+
+.navbar .navbar-nav a:hover::after {
+    transform: scaleX(0.5);
+
 }
