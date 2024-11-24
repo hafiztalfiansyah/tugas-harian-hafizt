@@ -7,6 +7,7 @@ document.querySelector('#hamburger-menu').onclick = () => {
 
 // klik di luar sidebar untuk menghilangkan nav
 const hamburger = document.querySelector('#hamburger-menu');
+
 document.addEventListener('click', function(e) {
 
 })
