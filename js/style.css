@@ -24,4 +24,11 @@ body {
     justify-content: space-between;
     align-items: center;
     padding: 1.4rem 7%;
+    background-color: rgb(1, 1, 1, 0.8);
+    border-bottom: 1px solid #0b9bdd;
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    z-index: 9999;
 }
